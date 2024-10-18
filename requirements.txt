@@ -1,0 +1,9 @@
+google-generativeai
+streamlit
+pandas
+plotly
+matplotlib
+numpy
+SpeechRecognition
+gtts
+playsound
